@@ -13,7 +13,7 @@ db.getCollection('restaurants')
         from: "inspections",
         localField: "_id",
         foreignField: "restaurant_id",
-        as: "test"
+        as: "inspection_history"
       }
     }
   ])
