@@ -16,7 +16,7 @@ El codi de totes les consultes d’aquestes consultes es pot trobar en la carpet
 - “Buscar todos los restaurantes de un tipo de comida específico (ej. "Chinese").”
 
 
-![][image1]
+![](./images/2.1.png)
 
 - “Listar las inspecciones con violaciones, ordenadas por fecha”
 
